@@ -7,8 +7,6 @@ In my downtime, I like to fish 🎣 I use both conventional and fly gear, and ev
 <br>
 <hr>
 
-My work affords me a lot of opportunities to build creative solutions to tricky problems in a range of industries and sectors. My favorites are ag, education, and health care! I spend a good deal of time working with customers and company leaders to design solutions, mentoring my teammates through code review and working sessions, but I get my share of heads-down development as well.
-
 #### Languages I use primarily
 
 * Ruby
