@@ -22,7 +22,8 @@ In my downtime, I like to fish 🎣 I use both conventional and fly gear, and ev
 #### Technologies I work with
 
 * Ruby on Rails
-* Angular
+* React
 * PostgreSQL
+* Angular
 * GitHub
 * Docker
