@@ -4,13 +4,13 @@ My name is Paul. I'm a web developer who gets hyped up on test-driven developmen
 
 #### Languages I write
 
+* Elixir
 * Ruby
 * JavaScript & TypeScript
-* Elixir (still learning)
 * Python (if I must)
 
 #### Frameworks I use
 
+* Phoenix
 * Ruby on Rails
 * React & Next.js
-* Phoenix (still learning)
