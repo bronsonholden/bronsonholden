@@ -7,7 +7,6 @@ My name is Bronson. I'm a web developer who gets hyped up on test-driven develop
 * Elixir
 * Ruby
 * JavaScript & TypeScript
-* Python (if I must)
 
 #### Frameworks I use
 
