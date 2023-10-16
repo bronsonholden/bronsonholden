@@ -18,4 +18,4 @@ My name is Bronson. I'm a web developer who gets hyped up on test-driven develop
 
 * [HTTPizza](https://htt.pizza): Pie in the Sky 🍕
 * [Remark](https://www.remark.social/feed): Low key social media
-* [Agrinomicon]([https://www.agrinomicon.com/blocks](https://www.agrinomicon.com/blocks?bearing=0.00&lat=37.06451&lng=-120.52745&pitch=0.00&zoom=12.00)https://www.agrinomicon.com/blocks?bearing=0.00&lat=37.06451&lng=-120.52745&pitch=0.00&zoom=12.00): Ag mapping and knowledge base
+* [Agrinomicon](https://www.agrinomicon.com/blocks?bearing=0.00&lat=37.06451&lng=-120.52745&pitch=0.00&zoom=12.00): Ag mapping and knowledge base
