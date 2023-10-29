@@ -16,6 +16,6 @@ My name is Bronson. I'm a web developer who gets hyped up on test-driven develop
 
 #### Stuff I made
 
-* [HTTPizza](https://htt.pizza): Pie in the Sky 🍕
+* [HTTPizza](https://htt.pizza): Pie in the Sky 🍕 Monitoring and alerts for sites, APIs, or other web services.
 * [Remark](https://www.remark.social/feed): Low key social media
 * [Agrinomicon](https://www.agrinomicon.com/blocks?bearing=0.00&lat=37.06451&lng=-120.52745&pitch=0.00&zoom=12.00): Ag mapping and knowledge base
